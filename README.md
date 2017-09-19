@@ -4,7 +4,7 @@ An easy Raspberry Pi 3 traffic light python script
 
 #### Step 1 : Download all files
 
-<img src="https://i.imgur.com/aVAEK8R.png"/> #bearbeiten !!!
+<img src="https://i.imgur.com/aVAEK8R.png"/>
 
 
 #### Step 2 : Unzip the file 
