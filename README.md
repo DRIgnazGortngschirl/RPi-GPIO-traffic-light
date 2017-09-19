@@ -9,7 +9,7 @@ An easy and simple Raspberry Pi 3 traffic light python script
 
 
 ## How it looks like :
-[![RaspberryPi3-traffic-light](http://img.youtube.com/vi/xVKuk-qohrk/0.jpg)](https://youtu.be/xVKuk-qohrk "RaspberryPi3-traffic-light")
+[![RaspberryPi3-traffic-light](http://img.youtube.com/vi/nUJLGBQxIok/0.jpg)](https://youtu.be/nUJLGBQxIok "RaspberryPi3-traffic-light")
 
 
 
